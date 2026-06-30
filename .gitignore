@@ -18,3 +18,6 @@ export_presets.cfg
 
 # Claude Code local (per-machine) settings
 .claude/settings.local.json
+
+# gdUnit4 generated test reports
+/reports/
