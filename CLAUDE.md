@@ -1,4 +1,4 @@
-# mygame — project conventions
+# Game Template — project conventions
 
 Godot 4.7 (standard build, GDScript). Planner/executor workflow per the global
 CLAUDE.md. See `PLAN.md` for the environment setup and `PLAN.md` hand-offs for tasks.
