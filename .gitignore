@@ -1,0 +1,20 @@
+# Godot 4+ specific ignores
+.godot/
+
+# Imported translations (automatically generated from CSV files)
+*.translation
+
+# Mono / .NET (unused for GDScript, kept for safety)
+.mono/
+data_*/
+mono_crash.*.json
+
+# Exported games and presets (export_presets.cfg may hold absolute paths/secrets)
+export_presets.cfg
+
+# OS / editor cruft
+.DS_Store
+*~
+
+# Claude Code local (per-machine) settings
+.claude/settings.local.json
