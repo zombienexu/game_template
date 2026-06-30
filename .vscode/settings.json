@@ -1,0 +1,16 @@
+{
+	// Path to the Godot 4.7 binary so the godot-tools extension can launch/debug.
+	"godotTools.editorPath.godot4": "/home/ztovs/.local/bin/godot",
+
+	// GDScript uses tabs (Godot default) — keep VS Code consistent.
+	"[gdscript]": {
+		"editor.insertSpaces": false,
+		"editor.detectIndentation": false
+	},
+	"files.associations": {
+		"*.gd": "gdscript",
+		"*.tres": "ini",
+		"*.tscn": "ini",
+		"project.godot": "ini"
+	}
+}

@@ -1,0 +1,21 @@
+{
+	"version": "0.2.0",
+	"configurations": [
+		{
+			"name": "Launch Godot project",
+			"type": "godot",
+			"request": "launch",
+			"project": "${workspaceFolder}",
+			"scene": "main",
+			"port": 6007
+		},
+		{
+			"name": "Launch current scene",
+			"type": "godot",
+			"request": "launch",
+			"project": "${workspaceFolder}",
+			"scene": "current",
+			"port": 6007
+		}
+	]
+}
